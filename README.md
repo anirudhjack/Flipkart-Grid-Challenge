@@ -3,7 +3,8 @@ Object localisation Challenge->
 The Problem Statement was to draw a bounding bounding box around the objects present in the image.
 x1,x2,y1,y2 are the bounding lines which bound the object in the image(480x640).
 
-![alt text](https://github.com/anirudhjack/Flipkart-Grid-Challenge/Flipkart.jpeg)
+![Flipkart](https://user-images.githubusercontent.com/48343220/54883570-bc1e4880-4e8c-11e9-97ca-420f2ddd5f4c.jpg)
+
 
 
 # Approach for the Problem Statement.
