@@ -18,3 +18,4 @@ Then trained images using this modules and saved results in a csv file.
 
 # Data
 Data is provided in the Data folder
+The Folder has only 100 images for training.
